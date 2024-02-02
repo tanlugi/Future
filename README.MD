@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Future é um site que simula respostas para perguntas.
 
-- [Acesse o projeto finalizado, online](https://tanlugi.github.io/Links)
+- [Acesse o projeto finalizado, online](https://tanlugi.github.io/Future)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
