@@ -3,7 +3,6 @@ const inputPergunta = document.querySelector("#inputPergunta")
 const buttonPerguntar = document.querySelector("#buttonPerguntar")
 const respostas = [
   "Nah!",
-  "Tu é Gay bro?",
   "Yeah baby",
   "Se quiser sim mano",
   "Certeza!",
